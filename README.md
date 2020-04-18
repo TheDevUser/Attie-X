@@ -1,5 +1,6 @@
 # Download
-shorturl.at/pwMNV
+(It's not an ad it's just a shortened URL.)
+https://shorturl.at/pwMNV
 # What Features Does Attie X Include
 * Monaco Editor
 * Open File
