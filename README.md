@@ -1,4 +1,5 @@
 # Download
+shorturl.at/pwMNV (It's not an ad its just a shortened URL)
 # What Features Does Attie X Include
 * Monaco Editor
 * Open File
@@ -11,7 +12,7 @@
 * Synapse Xen Support
 * FREE
 # Pictures
-You are able to change the text editors backround using the themes feature.
+You are able to change the text editor's backround using the themes feature.
 
 ![picture alt](https://cdn.discordapp.com/attachments/448320585798254593/700991550120788078/image.PNG "")
 # Why Choose Attie X
@@ -24,4 +25,4 @@ TheDevUser | BotNet#3500
 ### API ###
 Proxo Team
 # Make Your Own #
-Here Is A Link To Arilis Open Source Exploit: https://github.com/Arilis/Orion
+Here Is A Link To Arilis's Open Source Exploit: https://github.com/Arilis/Orion
