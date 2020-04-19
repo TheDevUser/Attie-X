@@ -1,4 +1,4 @@
-# What Features Does Attie X Include
+# What Features Does Mango X Include
 * Monaco Editor
 * Open File
 * EasyExploits And Not WeAreDevs
@@ -13,8 +13,8 @@
 You are able to change the text editor's backround using the themes feature.
 
 ![picture alt](https://cdn.discordapp.com/attachments/536367648179617823/701221888634126417/github.PNG "")
-# Why Choose Attie X
-A small portion of free roblox exploit look good, but when you donwload them you have to go through ads that have a butt ton of virus. Then the key system also has ads which have viruses. Also, by the time you enter the key, the key will be expired. But, Attie X doesnt have any of that. None of that crap.
+# Why Choose Mango X
+A small portion of free roblox exploit look good, but when you donwload them you have to go through ads that have a butt ton of virus. Then the key system also has ads which have viruses. Also, by the time you enter the key, the key will be expired. But, Mango X doesnt have any of that. None of that crap.
 # Credits
 ### UI Functionality ###
 Arilis
