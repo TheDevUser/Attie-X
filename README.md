@@ -1,8 +1,11 @@
 # What Features Does Mango X Include
 * Monaco Editor
+* Clear Syntax Highlighting
+* Text Auto-Fill
+* Easy User Interface
+* Script Box To Load In Scripts
 * Open File
 * EasyExploits And Not WeAreDevs
-* Clean Easy To Use UI
 * Easy Setup
 * Custom Themes
 * No Key System
